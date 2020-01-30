@@ -5,4 +5,4 @@ Some more information.
 
 Another change
 
-Different last change
+Last change
